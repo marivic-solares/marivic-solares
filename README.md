@@ -1,6 +1,7 @@
-# 👋 Hi, I'm MARIVIC C. SOLARES
-
-*Front-End Focused IT Student | Eager Intern*
+<p align="center">
+  <h1>👋 Hi, I'm MARIVIC C. SOLARES</h1>
+  <em>Front-End Focused IT Student | Eager Intern</em>
+</p>
 
 ---
 
@@ -11,42 +12,40 @@ Motivated 4th-year **BS in Information Technology** student passionate about **w
 
 ## 🛠️ Skills & Expertise
 
-### **Software Skills**
-💼 Office Productivity: Microsoft Office, Google Workspace  
-🎨 Graphic Design & Multimedia: Adobe Photoshop, Canva, Figma  
-💻 Development Software / IDEs: VS Code, IntelliJ, etc.  
-🔧 Version Control: ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <strong>💼 Software Skills</strong><br>
+  <kbd>Microsoft Office</kbd> <kbd>Google Workspace</kbd> <kbd>Adobe Photoshop</kbd> <kbd>Canva</kbd> <kbd>Figma</kbd> <kbd>VS Code</kbd> <kbd>IntelliJ</kbd> <kbd>Git</kbd> <kbd>GitHub</kbd>
+</p>
 
-### **Programming Skills**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+<p align="center">
+  <strong>💻 Programming Skills</strong><br>
+  <kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>Bootstrap</kbd> <kbd>JavaScript</kbd> <kbd>ReactJS</kbd>
+</p>
 
-### **Hardware Skills**
-🖥️ Basic Computer Assembly & Maintenance  
-🌐 Basic Networking  
+<p align="center">
+  <strong>🖥️ Hardware Skills</strong><br>
+  <kbd>Basic Computer Assembly & Maintenance</kbd> <kbd>Basic Networking</kbd>
+</p>
 
-### **Soft Skills**
-💡 Problem-Solving  
-🧠 Analytical Thinking  
-🗣️ Communication Skills  
-🤝 Teamwork & Collaboration  
-⚡ Adaptability  
-🔍 Attention to Detail  
+<p align="center">
+  <strong>💡 Soft Skills</strong><br>
+  <kbd>Problem-Solving</kbd> <kbd>Analytical Thinking</kbd> <kbd>Communication Skills</kbd> <kbd>Teamwork & Collaboration</kbd> <kbd>Adaptability</kbd> <kbd>Attention to Detail</kbd>
+</p>
 
-### **Languages**
-🇵🇭 Filipino (Fluent)  
-🇺🇸 English (Intermediate)  
+<p align="center">
+  <strong>🌐 Languages</strong><br>
+  <kbd>Filipino (Fluent)</kbd> <kbd>English (Intermediate)</kbd>
+</p>
 
 ---
 
 ## 🚀 Featured Project: Capstone
+
 **AI-Powered Recipe Recommender for Native Kapampangan Dishes**  
-*Status: Ongoing (Mar 2025 - Present)*  
+*Status: Ongoing (Mar 2025 - Present)*
 
 **Role:** Led development team  
+
 **Key Contributions:**  
 - Built responsive front-end using **HTML, CSS, and JavaScript**  
 - Coordinated tasks, tracked milestones, and conducted testing  
@@ -54,23 +53,31 @@ Motivated 4th-year **BS in Information Technology** student passionate about **w
 ---
 
 ## 🌱 Certifications
-🎓 **Version Control – Meta (Coursera)** | Aug 2025  
-Practical skills in Git, GitHub, CLI, file management, and web development tools.  
 
-🎓 **Introduction to Front-End Development – Meta (Coursera)** | Sep 2025  
-Expertise in JavaScript, HTML, CSS, Bootstrap, responsive design, and UI development.  
+<p align="center">
+  <kbd>Version Control – Meta (Coursera) | Aug 2025</kbd><br>
+  <kbd>Introduction to Front-End Development – Meta (Coursera) | Sep 2025</kbd><br>
+  <kbd>Events Management Services NCIII – TESDA | Aug 2025 - Jul 2030</kbd><br>
+  <kbd>React Basics – Meta (Coursera) | Jul 2025</kbd>
+</p>
 
-🎓 **Events Management Services NCIII – TESDA** | Aug 2025 - Jul 2030  
-Event planning, supplier coordination, and budget management.  
-
-🎓 **React Basics – Meta (Coursera)** | Jul 2025  
-Hands-on experience building responsive web apps using React.js, JS, HTML, CSS, and UI components.  
+- **Version Control** – Practical skills in Git, GitHub, CLI, file management, and web development tools.  
+- **Introduction to Front-End Development** – Expertise in JS, HTML, CSS, Bootstrap, responsive design, UI development.  
+- **Events Management Services NCIII** – Event planning, supplier coordination, and budget management.  
+- **React Basics** – Hands-on building responsive web apps with React.js, JS, HTML, CSS, UI components, and debugging.  
 
 ---
 
 ## 🤝 Let's Connect!
-📧 marivic.c.solares@gmail.com  
-📍 Floridablanca, Pampanga, Philippines  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marivic-solares)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marivic-solares)
+<p align="center">
+  📧 marivic.c.solares@gmail.com<br>
+  📍 Floridablanca, Pampanga, Philippines<br><br>
+  <a href="https://www.linkedin.com/in/marivic-solares">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/marivic-solares">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
